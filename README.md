@@ -1,2 +1,3 @@
 # hello-world
-Something to begin with
+
+Find out more soon.
